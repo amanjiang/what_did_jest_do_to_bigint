@@ -1,0 +1,17 @@
+{
+  "name": "what_did_jest_do_to_bigint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-addon-api": "*"
+  },
+  "devDependencies": {},
+  "gypfile": true
+}
